@@ -2,6 +2,15 @@
 
 prueba de Jeferson Ricardo Salazar
 
+<img width="347" height="797" alt="image" src="https://github.com/user-attachments/assets/730cc048-670f-4e35-b950-e8c1ce650644" />
+<img width="346" height="800" alt="image" src="https://github.com/user-attachments/assets/0410c042-437a-447b-8126-72e76ad2a775" />
+<img width="347" height="801" alt="image" src="https://github.com/user-attachments/assets/a9bc03d7-ebdc-4cee-b1b8-6b9b3ada876f" />
+
+
+
+
+
+
 ## Prueba Tecnica Flutter – Autenticación, API y Persistencia Local
 Descripción
 
