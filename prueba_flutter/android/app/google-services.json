@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389270766939",
+    "project_id": "prueba-flutter-ricardo",
+    "storage_bucket": "prueba-flutter-ricardo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389270766939:android:e71fca76813541e5abc67e",
+        "android_client_info": {
+          "package_name": "com.example.prueba_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANubfAWiVMjKWyaLRhYR289l2LNLRqZQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
